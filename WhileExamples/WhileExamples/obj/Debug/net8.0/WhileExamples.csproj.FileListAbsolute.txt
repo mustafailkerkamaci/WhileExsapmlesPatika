@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\bin\Debug\net8.0\WhileExamples.exe
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\bin\Debug\net8.0\WhileExamples.deps.json
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\bin\Debug\net8.0\WhileExamples.runtimeconfig.json
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\bin\Debug\net8.0\WhileExamples.dll
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\bin\Debug\net8.0\WhileExamples.pdb
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.AssemblyInfo.cs
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.sourcelink.json
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.dll
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\refint\WhileExamples.dll
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.pdb
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\WhileExamples.genruntimeconfig.cache
+C:\Users\musta\source\repos\WhileExamples\WhileExamples\obj\Debug\net8.0\ref\WhileExamples.dll
